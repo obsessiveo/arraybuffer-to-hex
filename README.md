@@ -1,6 +1,9 @@
 # arraybuffer-to-hex
 > small conversion typescript utility
 
+[![Npm package version](https://badgen.net/npm/v/@obsessiveo/arraybuffer-to-hex)](https://www.npmjs.com/package/@obsessiveo/arraybuffer-to-hex)
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
+
 ---
 
 ## About
