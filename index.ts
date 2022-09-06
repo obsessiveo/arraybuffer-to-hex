@@ -1,7 +1,7 @@
 /**
  * Convert an array of bytes to a hex string
  * @param buffer the array buffer to convert
- * @returns the hex string
+ * @returns the converted hex string
  */
 export function arrayBufferToHex(buffer: ArrayBuffer): string {
   return Array.prototype.map
