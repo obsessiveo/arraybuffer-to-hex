@@ -1,8 +1,9 @@
 {
-  "name": "arraybuffer-to-hex",
+  "name": "@obsessiveo/arraybuffer-to-hex",
   "version": "1.0.0",
   "description": "Converts an ArrayBuffer to hex decimal string",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "prepublish": "tsc"
   },
