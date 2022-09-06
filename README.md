@@ -1,10 +1,7 @@
 # arraybuffer-to-hex
+> small conversion typescript utility
 
-[![npm][badge-npm]][project-npm]
-[![Build Status][badge-circle]][project-circle]
-[![Coverage Status][badge-coveralls]][project-coveralls]
-[![npm downloads][badge-npm-downloads]][project-npm]
-[![TypeScript Support][badge-type-ts]][project-v-api]
+---
 
 ## About
 This `arraybuffer-to-hex` little utility converts an ArrayBufer to hexdecimal string.
