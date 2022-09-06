@@ -1,0 +1,27 @@
+{
+  "name": "arraybuffer-to-hex",
+  "version": "1.0.0",
+  "description": "Converts an ArrayBuffer to hex decimal string",
+  "main": "index.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obsessiveo/arraybuffer-to-hex.git"
+  },
+  "keywords": [
+    "typescript",
+    "hex",
+    "arraybuffer"
+  ],
+  "author": "Obsessiveo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obsessiveo/arraybuffer-to-hex/issues"
+  },
+  "homepage": "https://github.com/obsessiveo/arraybuffer-to-hex#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
